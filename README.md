@@ -1,6 +1,6 @@
 ### Xin Chào. Hi there 👋
 
-I'm Khoi. I am a senior frontend engineer who has strong passion with web framework.
+I'm Khoi. I am a senior frontend engineer who has strong passion for web framework.
 
 I love writing blogs to help web developers with tips and tricks. You can find all of my blogs on [Medium](https://medium.com/@khoixbui).
 
